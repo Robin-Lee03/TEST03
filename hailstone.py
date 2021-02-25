@@ -26,8 +26,6 @@ def main():
             print(n1, " is even,so i take half: ", int(n1/2))
             n1 /= 2
 
-
-
         else:
             print(n1, 'is odd,so I make 3n+1: ', int((n1 * 3) + 1))
             n1 = (n1 * 3) + 1
